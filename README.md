@@ -8,8 +8,8 @@
 </div>
 
 <div align="justify">
-Projeto desenvolvido individualmente durante o primeiro e o segundo semestre do segundo ano do curso técnico de Desenvolvimento de Sistemas, na disciplina de Programação Web II(PWEB II).
-O projeto é um site informativo sobre diversos conteúdos do mundo do entretenimento, ele foi construído com base em um modelo predefinido do Bootstrap, incorporando as melhores práticas de design responsivo e proporcionando uma experiência de usuário fluida. As principais páginas incluem as telas de Home, Animes, Desenhos Animados, Doramas, Filmes e Perfil.
+Projeto desenvolvido individualmente durante o segundo ano do curso técnico de Desenvolvimento de Sistemas, na disciplina de Programação Web II(PWEB II).
+Este trabalho visa consolidar e aplicar as tecnologias aprendidas ao longo do curso, focando na responsividade do site. O projeto é um site informativo sobre diversos conteúdos do mundo do entretenimento, ele foi construído com base em um modelo predefinido do Bootstrap, incorporando as melhores práticas de design responsivo e proporcionando uma experiência de usuário fluida. As principais páginas incluem as telas de Home, Animes, Desenhos Animados, Doramas, Filmes e Perfil.
 </div>
 
 #
