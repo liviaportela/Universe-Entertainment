@@ -77,6 +77,7 @@ O projeto é um site informativo sobre diversos conteúdos do mundo do entreteni
   <td>HTML</td>  
   <td>CSS</td>
   <td>PHP</td>
+  <td>JavaScript</td>
  </tr>
 </table>
 
